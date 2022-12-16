@@ -1,0 +1,13 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="report_bugs">Report Bugs</string>
+    <string name="email_developer">Email Developer</string>
+    <string name="home">Home</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="our_terms_and_conditions">Our terms and conditions</string>
+    <string name="logout">Logout</string>
+    <string name="contacts">Contacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="developed_by_e_developers">Developed by E-developers</string>
+
+</resources>

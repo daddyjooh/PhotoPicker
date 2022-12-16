@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105613116390",
+    "project_id": "simplyedu-c2907",
+    "storage_bucket": "simplyedu-c2907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105613116390:android:e74d23dd63825c70758c27",
+        "android_client_info": {
+          "package_name": "com.example.lollipop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105613116390-vic9bqe0401kcioetjgqkncjl61grso4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lollipop",
+            "certificate_hash": "b4ab9d5dff59850c491092f677dc5729fe536063"
+          }
+        },
+        {
+          "client_id": "105613116390-oeh6h20tvgehhavel1q7l0ahdgghm2fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOQgGyavzjENs4SvfxUK64D0GcuOUejg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105613116390-oeh6h20tvgehhavel1q7l0ahdgghm2fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

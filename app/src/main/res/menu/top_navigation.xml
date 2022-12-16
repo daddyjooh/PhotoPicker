@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Actions">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:title="@string/home"
+                    android:id="@+id/home_nav"
+                    android:icon="@drawable/home"/>
+
+                <item
+                    android:title="@string/share_with_friends"
+                    android:icon="@drawable/share"/>
+                <item
+                    android:title="@string/our_terms_and_conditions"
+                    android:icon="@drawable/terms"/>
+                <item
+                    android:title="@string/logout"
+                    android:id="@+id/logout_nav"
+                    android:icon="@drawable/logout"/>
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/contacts">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:title="@string/email_developer"
+                    android:icon="@drawable/ic_baseline_mail_outline_24"/>
+
+                <item
+                    android:title="@string/report_bugs"
+                    android:icon="@drawable/malware"/>
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>
