@@ -23,7 +23,7 @@ public class Splashscreen extends AppCompatActivity {
         startButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Splashscreen.this,Picker.class));
+                startActivity(new Intent(Splashscreen.this,changeProfile.class));
                 finish();
             }
         });
